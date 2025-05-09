@@ -14,7 +14,7 @@ API RESTful para la gestión de tareas estilo Kanban, desarrollada con FastAPI y
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU_USUARIO/Kanban_API.git
+git clone https://github.com/KritianWhite/Kanban_API.git
 cd Kanban_API
 ```
 
